@@ -21,7 +21,7 @@ function App() {
             <Pages.MusicFloor/>
           </Route>
 
-          <Route path="/">
+          <Route exact path="/">
             <Pages.MusicFloor/>
           </Route>
 
