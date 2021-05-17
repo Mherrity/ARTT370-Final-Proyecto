@@ -21,6 +21,10 @@ function App() {
             <Pages.MusicFloor/>
           </Route>
 
+          <Route path="/">
+            <Pages.MusicFloor/>
+          </Route>
+
           <Route path="/fs-shader">
             <Pages.FSShader/>
           </Route>
